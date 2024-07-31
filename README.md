@@ -3,7 +3,8 @@ a set of scripts and tools for various firmware analysis tasks
 
 ########################
 
-Add conditions if transfer data via UART are broken. Like missing lines or data is too short or too long.
+Updated file: parse-uboot-dump.py
+Display errors if transfer data via UART are broken. Like missing lines or data is too short or too long.
 
 E.g. log if dump file is broken:
 ```
